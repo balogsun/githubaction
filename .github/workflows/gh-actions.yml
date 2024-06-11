@@ -1,4 +1,4 @@
-    name: Simple Hello world Workflow.
+    name: Simple Hello world Workflow
 
     on: [push]
 
